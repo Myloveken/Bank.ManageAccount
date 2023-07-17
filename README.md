@@ -1,5 +1,19 @@
-## Getting Started
+# Getting Started
 
+## Manage account users
+
+The creation of a bank account with the information of the customer accounts.
+
+### Description of the day
+
+| Começamos um novo dia | Descripção|
+| ------------- | ------------ |
+|  | Bora ralar |
+|| Lute como um boleto|
+| | O boleto sempre vence |
+| | O boleto sempre vence! |
+
+# Ferramentas
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
